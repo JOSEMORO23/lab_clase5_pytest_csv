@@ -1,7 +1,7 @@
 # lab_clase5_pytest_csv
-# 🧪 Laboratorio 5 — Pytest + Módulo simple y validación de CSV (Python 3.12)
+#  Laboratorio 5 — Pytest + Módulo simple y validación de CSV (Python 3.12)
 
-## 🎯 Objetivos
+##  Objetivos
 - Practicar pruebas unitarias con **pytest** sobre un módulo sencillo.  
 - Leer y validar un **dataset CSV** usando la librería estándar `csv`.  
 - Cubrir casos normales, casos límite y manejo de errores.  
